@@ -1,0 +1,17 @@
+:root{
+  --verde: #006341;
+  --dorado: #C5B358;
+  --gris:#333;
+  --bg:#fafafa;
+}
+
+p {color:var(--gris); line-height: 1.6;margin: .5rem 0;}
+p{color:black;}
+.nota{color: #006341;}
+#aviso{color: #C5B358}
+
+.destacado{color:var(--verde);font-weight:600;}
+
+#principal{font-weight:700}
+
+p span{background:#C5B358; padding:0 .25rem;}
